@@ -1,0 +1,37 @@
+G,Date,Type,Opponent,Unnamed: 4,Tm,Opp
+1,2023-11-06,REG,Portland,L,73,78
+2,2023-11-11,REG,DePaul,W,77,73
+3,2023-11-14,REG,San Diego State,L,76,88
+4,2023-11-17,REG,Michigan,W,94,86
+5,2023-11-20,REG,Illinois State,L,52,61
+6,2023-11-21,REG,Iona,W,80,76
+7,2023-11-22,REG,Louisiana,L,82,92
+8,2023-11-26,REG,Montana State,W,75,69
+9,2023-12-02,REG,Sacramento State,W,83,73
+10,2023-12-06,REG,Life Pacific,W,88,66
+11,2023-12-10,REG,Southern California,W,84,79
+12,2023-12-19,REG,Cal State Dominguez Hills,W,107,78
+13,2023-12-28,REG,Cal State Fullerton,W,81,71
+14,2023-12-30,REG,Cal State Northridge,L,68,84
+15,2024-01-04,REG,Cal Poly,W,89,82
+16,2024-01-06,REG,UC Riverside,W,83,75
+17,2024-01-11,REG,UC San Diego,L,74,88
+18,2024-01-13,REG,UC Santa Barbara,L,76,85
+19,2024-01-18,REG,Hawaii,W,79,71
+20,2024-01-25,REG,UC Irvine,L,61,72
+21,2024-01-27,REG,UC Riverside,W,65,53
+22,2024-02-01,REG,Cal State Bakersfield,L,76,82
+23,2024-02-03,REG,UC San Diego,W,85,76
+24,2024-02-10,REG,Cal Poly,W,77,68
+25,2024-02-15,REG,UC Davis,W,78,74
+26,2024-02-17,REG,Cal State Northridge,W,87,73
+27,2024-02-22,REG,Cal State Bakersfield,W,79,66
+28,2024-02-25,REG,Hawaii,L,65,73
+29,2024-02-29,REG,Cal State Fullerton,L,71,76
+30,2024-03-02,REG,UC Irvine,L,61,82
+31,2024-03-07,REG,UC Santa Barbara,L,74,76
+32,2024-03-09,REG,UC Davis,L,78,88
+33,2024-03-14,CTOURN,UC Riverside,W,86,67
+34,2024-03-15,CTOURN,UC Irvine,W,83,79
+35,2024-03-16,CTOURN,UC Davis,W,74,70
+36,2024-03-21,NCAA,Arizona (9),L,65,85

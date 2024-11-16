@@ -1,0 +1,36 @@
+G,Date,Type,Opponent,Unnamed: 4,Tm,Opp
+1,2023-11-06,REG,Purdue (3),L,45,98
+2,2023-11-10,REG,Virginia Commonwealth,L,65,75
+3,2023-11-14,REG,Mississippi College,W,96,52
+4,2023-11-17,REG,South Carolina State,W,89,72
+5,2023-11-22,REG,Alabama State,W,99,67
+6,2023-11-24,REG,Merrimack,W,79,71
+7,2023-11-25,REG,North Carolina A&T,W,101,83
+8,2023-11-30,REG,Louisiana,W,88,65
+9,2023-12-03,REG,LaGrange,W,128,82
+10,2023-12-11,REG,Alabama A&M,W,118,91
+11,2023-12-16,REG,Belmont,W,99,93
+12,2023-12-19,REG,Valparaiso,W,79,61
+13,2023-12-21,REG,Texas Southern,W,87,65
+14,2024-01-03,REG,Chattanooga,W,89,74
+15,2024-01-06,REG,The Citadel,W,80,64
+16,2024-01-11,REG,UNC Greensboro,W,79,70
+17,2024-01-13,REG,Virginia Military Institute,W,134,96
+18,2024-01-16,REG,Western Carolina,W,75,71
+19,2024-01-20,REG,Mercer,W,87,80
+20,2024-01-24,REG,Furman,L,68,78
+21,2024-01-27,REG,East Tennessee State,W,75,72
+22,2024-01-31,REG,Wofford,W,81,79
+23,2024-02-03,REG,Chattanooga,W,78,56
+24,2024-02-08,REG,UNC Greensboro,W,78,69
+25,2024-02-10,REG,Virginia Military Institute,W,102,63
+26,2024-02-14,REG,Western Carolina,W,88,62
+27,2024-02-17,REG,Mercer,L,84,88
+28,2024-02-21,REG,Furman,W,74,72
+29,2024-02-24,REG,East Tennessee State,W,87,71
+30,2024-02-28,REG,Wofford,L,69,91
+31,2024-03-02,REG,The Citadel,W,92,80
+32,2024-03-09,CTOURN,Mercer,W,70,57
+33,2024-03-10,CTOURN,Furman,W,84,77
+34,2024-03-11,CTOURN,East Tennessee State,W,76,69
+35,2024-03-21,NCAA,Kansas (17),L,89,93

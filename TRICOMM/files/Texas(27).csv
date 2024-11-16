@@ -1,0 +1,35 @@
+G,Date,Type,Opponent,W/L,Tm,Opp
+1,2023-11-06,REG,Incarnate Word,W,88,56
+2,2023-11-10,REG,Delaware State,W,86,59
+3,2023-11-15,REG,Rice,W,80,64
+4,2023-11-19,REG,Louisville,W,81,80
+5,2023-11-20,REG,Connecticut (5),L,71,81
+6,2023-11-26,REG,Wyoming,W,86,63
+7,2023-11-30,REG,Texas State,W,77,58
+8,2023-12-06,REG,Marquette (8),L,65,86
+9,2023-12-09,REG,Houston Christian,W,77,50
+10,2023-12-16,REG,Louisiana State,W,96,85
+11,2023-12-22,REG,Texas A&M-Corpus Christi,W,71,55
+12,2023-12-29,REG,UNC Greensboro,W,72,37
+13,2024-01-01,REG,UT Arlington,W,79,62
+14,2024-01-06,REG,Texas Tech,L,67,78
+15,2024-01-09,REG,Cincinnati,W,74,73
+16,2024-01-13,REG,West Virginia,L,73,76
+17,2024-01-17,REG,UCF,L,71,77
+18,2024-01-20,REG,Baylor (9),W,75,73
+19,2024-01-23,REG,Oklahoma (11),W,75,60
+20,2024-01-27,REG,Brigham Young (21),L,72,84
+21,2024-01-29,REG,Houston (4),L,72,76
+22,2024-02-03,REG,TCU (25),W,77,66
+23,2024-02-06,REG,Iowa State (14),L,65,70
+24,2024-02-10,REG,West Virginia,W,94,58
+25,2024-02-17,REG,Houston (3),L,61,82
+26,2024-02-19,REG,Kansas State,W,62,56
+27,2024-02-24,REG,Kansas (9),L,67,86
+28,2024-02-27,REG,Texas Tech,W,81,69
+29,2024-03-02,REG,Oklahoma State,W,81,65
+30,2024-03-04,REG,Baylor (11),L,85,93
+31,2024-03-09,REG,Oklahoma,W,94,80
+32,2024-03-13,CTOURN,Kansas State,L,74,78
+33,2024-03-21,NCAA,Colorado State,W,56,44
+34,2024-03-23,NCAA,Tennessee (6),L,58,62

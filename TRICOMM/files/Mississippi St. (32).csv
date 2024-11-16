@@ -1,0 +1,36 @@
+G,Date,Type,Opponent,W/L,Tm,Opp
+1,2023-11-08,REG,Arizona State,W,71,56
+2,2023-11-11,REG,Tennessee-Martin,W,87,63
+3,2023-11-14,REG,North Alabama,W,81,54
+4,2023-11-18,REG,Washington State,W,76,64
+5,2023-11-19,REG,Northwestern,W,66,57
+6,2023-11-24,REG,Nicholls State,W,74,61
+7,2023-11-28,REG,Georgia Tech,L,59,67
+8,2023-12-03,REG,Southern,L,59,60
+9,2023-12-09,REG,Tulane,W,106,76
+10,2023-12-13,REG,Murray State,W,85,81
+11,2023-12-17,REG,North Texas,W,72,54
+12,2023-12-23,REG,Rutgers,W,70,60
+13,2023-12-31,REG,Bethune-Cookman,W,85,62
+14,2024-01-06,REG,South Carolina,L,62,68
+15,2024-01-10,REG,Tennessee (5),W,77,72
+16,2024-01-13,REG,Alabama,L,74,82
+17,2024-01-17,REG,Kentucky (8),L,77,90
+18,2024-01-20,REG,Vanderbilt,W,68,55
+19,2024-01-24,REG,Florida,L,70,79
+20,2024-01-27,REG,Auburn (8),W,64,58
+21,2024-01-30,REG,Mississippi,L,82,86
+22,2024-02-03,REG,Alabama (24),L,67,99
+23,2024-02-07,REG,Georgia,W,75,62
+24,2024-02-10,REG,Missouri,W,75,51
+25,2024-02-17,REG,Arkansas,W,71,67
+26,2024-02-21,REG,Mississippi,W,83,71
+27,2024-02-24,REG,Louisiana State,W,87,67
+28,2024-02-27,REG,Kentucky (16),L,89,91
+29,2024-03-02,REG,Auburn (11),L,63,78
+30,2024-03-06,REG,Texas A&M,L,69,75
+31,2024-03-09,REG,South Carolina (17),L,89,93
+32,2024-03-14,CTOURN,Louisiana State,W,70,60
+33,2024-03-15,CTOURN,Tennessee (5),W,73,56
+34,2024-03-16,CTOURN,Auburn (12),L,66,73
+35,2024-03-21,NCAA,Michigan State,L,51,69

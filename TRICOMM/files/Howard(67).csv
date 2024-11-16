@@ -1,0 +1,36 @@
+G,Date,Type,Opponent,Unnamed: 4,Tm,Opp
+1,2023-11-06,REG,Hampton,W,92,80
+2,2023-11-09,REG,Georgia Tech,L,85,88
+3,2023-11-12,REG,James Madison,L,86,107
+4,2023-11-14,REG,Boston University,W,64,53
+5,2023-11-18,REG,Rutgers,L,63,85
+6,2023-11-20,REG,Bryant,L,61,67
+7,2023-11-25,REG,Mount St. Mary's,W,87,83
+8,2023-11-28,REG,Cincinnati,L,81,86
+9,2023-12-11,REG,Pennsylvania,L,68,78
+10,2023-12-13,REG,Regent,W,88,49
+11,2023-12-17,REG,Jackson State,L,74,81
+12,2023-12-17,REG,Texas Southern,L,78,79
+13,2023-12-20,REG,UC Santa Barbara,L,81,94
+14,2023-12-30,REG,La Salle,W,71,66
+15,2024-01-03,REG,Yale,L,78,86
+16,2024-01-06,REG,North Carolina Central,L,54,73
+17,2024-01-08,REG,South Carolina State,W,82,78
+18,2024-01-13,REG,Maryland-Eastern Shore,W,72,61
+19,2024-01-15,REG,Morehouse,W,78,72
+20,2024-01-20,REG,Norfolk State,L,61,65
+21,2024-01-27,REG,Morgan State,L,79,85
+22,2024-01-29,REG,Coppin State,W,81,66
+23,2024-02-03,REG,Hampton,L,61,63
+24,2024-02-05,REG,Delaware State,W,75,71
+25,2024-02-17,REG,North Carolina Central,W,90,82
+26,2024-02-19,REG,South Carolina State,L,68,75
+27,2024-02-24,REG,Morgan State,W,78,72
+28,2024-02-26,REG,Coppin State,W,78,69
+29,2024-03-02,REG,Maryland-Eastern Shore,W,70,66
+30,2024-03-04,REG,Delaware State,W,85,66
+31,2024-03-07,REG,Norfolk State,L,58,77
+32,2024-03-14,CTOURN,Morgan State,W,78,65
+33,2024-03-15,CTOURN,Norfolk State,W,80,74
+34,2024-03-16,CTOURN,Delaware State,W,70,67
+35,2024-03-19,NCAA,Wagner,L,68,71
